@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "angular": "^1.6.9",
-    "angular-ui-router": "^0.4.3"
+    "angular-ui-router": "^1.0.4"
   }
 }
